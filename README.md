@@ -2,7 +2,7 @@ Title: Area to Price Prediction using Linear Regression Model
 
 Description: This is a simple data science project that utilizes a linear regression model to predict the price of a property based on its area. The project has been implemented using Python programming language, and the data has been extracted from a CSV file.
 
-The project begins by importing necessary libraries, including pandas, matplotlib, and scikit-learn, which contains the linear regression model. The data is then loaded into a pandas DataFrame and preprocessed, including handling of missing values and outliers.
+The project begins by importing necessary libraries, including pandas, matplotlib,seaborn and scikit-learn, which contains the linear regression model. The data is then loaded into a pandas DataFrame and preprocessed, including handling of missing values and outliers.
 
 Next, the data is split into training and testing sets to train and evaluate the linear regression model. The model is fitted on the training set using the fit() method of the linear regression object, and predictions are made on the testing set using the predict() method.
 
